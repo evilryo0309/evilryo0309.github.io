@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Learning Footprint - 學習足跡"
-date:   2021-04-07 13:10:03 +0000
+title: Learning Footprint - 學習足跡
+date: 2021-04-07 13:10:03 +0800
 categories: diary
 ---
 Sometimes, I feel what a big big pity that I didn't upload the source code after done some tutorials nor write it down anywhere. So here is a new start.

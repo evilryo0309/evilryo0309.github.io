@@ -4,3 +4,4 @@
 
 layout: home
 ---
+#### After fighting a game! 先挑一場再說!
